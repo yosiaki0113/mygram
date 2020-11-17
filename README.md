@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* イメージ
+[![Image from Gyazo](https://i.gyazo.com/da436034b84dfde1a6e54277379639a8.gif)](https://gyazo.com/da436034b84dfde1a6e54277379639a8)
